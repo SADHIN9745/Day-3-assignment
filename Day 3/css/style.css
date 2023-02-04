@@ -1,0 +1,40 @@
+.carousel-item img{
+    height: 697px;
+}
+.card-section{
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+    padding-top: 60px;
+
+}
+.CAPTION-1{
+    FONT-SIZE: 103PX;
+    margin-top: 155PX;
+    margin-left: 107PX;
+    COLOR: WHITE;
+}
+.CAPTION-2{
+        FONT-SIZE: 140PX;
+        MARGIN-LEFT: 105PX;
+        MARGIN-TOP: -60PX;
+        COLOR: WHITE;
+}
+.card img{
+    width: 100%;
+    height: 174px;
+}
+.footer{
+    width: 100%;
+    height:auto;
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important; 
+    margin: 0px;
+    
+}
+.footer p{
+  color: white;
+  text-align: center; 
+  padding-top: 30px;
+  padding-bottom: 30px;  
+  
+} 
